@@ -69,6 +69,12 @@
   
   > **OBS**: "UTF-8" é o mais utilizado
 
+* viewport =  reajustar o tamanho da janela virtual (viewport) com a largura do dispositivo móvel
+  
+  ```html
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  ```
+
 ---
 
 ## title
