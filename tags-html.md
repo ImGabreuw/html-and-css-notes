@@ -104,3 +104,24 @@
 ```
 
 ---
+
+## br
+
+```html
+<br>
+```
+
+### Detalhes
+
+* Não obrigatório
+* Quabra de linha
+
+### Exemplo
+
+```html
+<span>Linha 1</span>
+<br>
+<span>Linha 1</span>
+```
+
+---
