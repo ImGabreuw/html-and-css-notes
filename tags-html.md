@@ -120,7 +120,7 @@
 ### Detalhes
 
 * Não obrigatório
-* Quabra de linha
+* Quebra de linha
 
 ### Exemplo
 
@@ -128,6 +128,26 @@
 <span>Linha 1</span>
 <br>
 <span>Linha 1</span>
+```
+
+---
+
+
+## b (bold)
+
+```html
+<b>Corpo</b>
+```
+
+### Detalhes
+
+* Não obrigatório
+* Deixar uma palavra ou texto em negrito
+
+### Exemplo
+
+```html
+<p>Texto em <b>negrito</b></p> 
 ```
 
 ---
