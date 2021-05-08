@@ -1,9 +1,17 @@
 # Heading
 
-### Detalhes
+<br>
+
+> Documentação: [clique aqui](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/Heading_Elements)
+
+<br>
+
+## Detalhes
 
 * No HTML possui 6 tipos de cabeçalhos, do `<h1>` até o `<h6>` 
 * Cada um possui uma semântica diferente
+
+<br>
 
 ## Hierarquia entre os heading (+ para -)
 
@@ -11,7 +19,7 @@
 
 > Usar essa TAG apenas 1 vez por página
 
-### Sintaxe
+### Uso
 
 ```html
 <h1>H1</h1>
@@ -27,7 +35,7 @@
 
 > Quando for utilizar um título em uma `<section>`, prefira usar um TAG `<h2>` ou inferior, afim de manter uma boa semântica
 
-### Sintaxe
+### Uso
 
 ```html
 <h2>H2</h2>
@@ -43,7 +51,7 @@
 
 > Geralmente é usado em tópicos
 
-### Sintaxe
+### Uso
 
 ```html
 <h3>H3</h3>
@@ -59,7 +67,7 @@
 
 > Geralmente é usado em subtópicos
 
-### Sintaxe
+### Uso
 
 ```html
 <h4>H4</h4>
@@ -75,7 +83,7 @@
 
 > Raramente é utilizado
 
-### Sintaxe
+### Uso
 
 ```html
 <h5>H5</h5>
@@ -91,7 +99,7 @@
 
 > Assim como o `<h5>`, essa TAG é ainda mais raro de se utilizar
 
-### Sintaxe
+### Uso
 
 ```html
 <h6>H6</h6>
