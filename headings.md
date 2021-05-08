@@ -14,12 +14,12 @@
 ### Sintaxe
 
 ```html
-<h1>Título</h1>
+<h1>H1</h1>
 ```
 
 ### Demonstração
 
-<h1>Título</h1>
+<h1>H1</h1>
 
 ---
 
@@ -30,12 +30,12 @@
 ### Sintaxe
 
 ```html
-<h2>Subtítulo</h2>
+<h2>H2</h2>
 ```
 
 ### Demonstração
 
-<h2>Subtítulo</h2>
+<h2>H2</h2>
 
 ---
 
@@ -46,12 +46,12 @@
 ### Sintaxe
 
 ```html
-<h3>Tópico</h3>
+<h3>H3</h3>
 ```
 
 ### Demonstração
 
-<h3>Tópico</h3>
+<h3>H3</h3>
 
 ---
 
@@ -62,12 +62,12 @@
 ### Sintaxe
 
 ```html
-<h4>Subtópicos</h4>
+<h4>H4</h4>
 ```
 
 ### Demonstração
 
-<h4>Subtópicos</h4>
+<h4>H4</h4>
 
 ---
 
@@ -78,12 +78,12 @@
 ### Sintaxe
 
 ```html
-<h5>Texto</h5>
+<h5>H5</h5>
 ```
 
 ### Demonstração
 
-<h5>Texto</h5>
+<h5>H5</h5>
 
 ---
 
@@ -94,9 +94,9 @@
 ### Sintaxe
 
 ```html
-<h6>Texto</h6>
+<h6>H6</h6>
 ```
 
 ### Demonstração
 
-<h6>Texto</h6>
+<h6>H6</h6>
