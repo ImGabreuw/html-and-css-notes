@@ -1,6 +1,6 @@
 # TAG `<a>`
 
-### Para que serve?
+### Detalhes
 
 * Anexar um link/arquivo à um texto/imagem.
 
