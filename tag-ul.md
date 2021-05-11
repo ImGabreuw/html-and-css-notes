@@ -1,5 +1,11 @@
 # TAG `<ul>`
 
+<br>
+
+> **Documentação**: [clique aqui](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/ul)
+
+<br>
+
 ### Detalhes
 
 * `<ul>` = lista desordenada (unordered list), ou seja, os elementos não são numerados.
