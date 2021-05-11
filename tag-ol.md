@@ -1,5 +1,11 @@
 # TAG `<ol>`
 
+<br>
+
+> **Documentação**: [clique aqui](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/ol)
+
+<br>
+
 ### Detalhes
 
 * `<ol>` = lista ordenada (ordered list), ou seja, os elementos são numerados/indice.
