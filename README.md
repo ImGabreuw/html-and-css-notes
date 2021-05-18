@@ -14,6 +14,10 @@
 
 - [ ] TAG `<input>`
 - [ ] TAG `<label>`
+- [ ] Aula sobre seletores de atributos do CSS
+- [ ] Aula sobre pseudo-classes
+- [ ] Aula sobre pseudo-classe :not()
+- [ ] Aula sobre pseudo-classe :nth-child()
 
 ## 💻 Tecnologias
 
